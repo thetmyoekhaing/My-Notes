@@ -1,0 +1,1 @@
+## College Algebra Notes and testing obsidian git sync
