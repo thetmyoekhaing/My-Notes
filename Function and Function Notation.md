@@ -2,9 +2,12 @@
 **Domain of a Function**: The set of all possible inputs for the function.
 
 **For all polynomials** 
-f(x) = 2x - 7
-f(x) = x^2 + 3x - 5
-the domain of the function is D(-∞ , ∞)
+
+\( f(x) = 2x - 7 \)  
+\( f(x) = x^2 + 3x - 5 \)
+
+\( the domain of the function is D(-∞ , ∞) \)
+
 
 
 **For rationals**
