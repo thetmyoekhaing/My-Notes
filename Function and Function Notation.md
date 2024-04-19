@@ -3,10 +3,10 @@
 
 **For all polynomials** 
 
-\( f(x) = 2x - 7 \)  
-\( f(x) = x^2 + 3x - 5 \)
+\ f(x) = 2x - 7
+\ f(x) = x^2 + 3x - 5
 
-\( the domain of the function is D(-∞ , ∞) \)
+\the domain of the function is D(-∞ , ∞)
 
 
 
