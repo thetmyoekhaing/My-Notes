@@ -26,7 +26,7 @@ A function is a relation in which each possible **input value(x)** leads to **ex
     
 - **Input** values make up the **domain**, and **output** values make up the **range**.
 
-![](../Pasted%20image%2020240422114931.png)
+![](../images/Pasted%20image%2020240422114931.png)
 
 (a) This relationship is a function because each input is associated with a single output. Note that input 𝑞 and 𝑟 both give output 𝑛. 
 
@@ -54,15 +54,15 @@ To represent “**height** is a function of **age**,”
 
 |        Name        |              Function               |                    Graph                    |            Characteristics             |
 | :----------------: | :---------------------------------: | :-----------------------------------------: | :------------------------------------: |
-|      Constant      | 𝑓(𝑥) = 𝑐, where 𝑐 is a constant | ![](../Pasted%20image%2020240422114801.png) |            Horizontal line             |
-|      Identity      |             𝑓(𝑥) = 𝑥             | ![](../Pasted%20image%2020240422114808.png) |         Line with a slope of 1         |
-|   Absolute value   |          𝑓(𝑥 )= \| 𝑥 \|          | ![](../Pasted%20image%2020240422114818.png) |             V-shaped graph             |
-|     Quadratic      |            𝑓(𝑥) = 𝑥^2            | ![](../Pasted%20image%2020240422114826.png) |             U-shaped graph             |
-|       Cubic        |            𝑓(𝑥) = 𝑥^3            | ![](../Pasted%20image%2020240422114833.png) |             S-shaped graph             |
-|     Reciprocal     |            𝑓(𝑥) = 1/𝑥            | ![](../Pasted%20image%2020240422114840.png) |            Hyperbolic graph            |
-| Reciprocal squared |           𝑓(𝑥) = 1/𝑥^2           | ![](../Pasted%20image%2020240422114847.png) | Hyperbolic graph with a narrower curve |
-|    Square root     |             𝑓(𝑥) = √x             | ![](../Pasted%20image%2020240422114859.png) |           Half of a parabola           |
-|     Cube root      |                 ∛x                  | ![](../Pasted%20image%2020240422114912.png) | S-shaped graph starting at the origin  |
+|      Constant      | 𝑓(𝑥) = 𝑐, where 𝑐 is a constant | ![](../images/Pasted%20image%2020240422114801.png) |            Horizontal line             |
+|      Identity      |             𝑓(𝑥) = 𝑥             | ![](../images/Pasted%20image%2020240422114808.png) |         Line with a slope of 1         |
+|   Absolute value   |          𝑓(𝑥 )= \| 𝑥 \|          | ![](../images/Pasted%20image%2020240422114818.png) |             V-shaped graph             |
+|     Quadratic      |            𝑓(𝑥) = 𝑥^2            | ![](../images/Pasted%20image%2020240422114826.png) |             U-shaped graph             |
+|       Cubic        |            𝑓(𝑥) = 𝑥^3            | ![](../images/Pasted%20image%2020240422114833.png) |             S-shaped graph             |
+|     Reciprocal     |            𝑓(𝑥) = 1/𝑥            | ![](../images/Pasted%20image%2020240422114840.png) |            Hyperbolic graph            |
+| Reciprocal squared |           𝑓(𝑥) = 1/𝑥^2           | ![](../images/Pasted%20image%2020240422114847.png) | Hyperbolic graph with a narrower curve |
+|    Square root     |             𝑓(𝑥) = √x             | ![](../images/Pasted%20image%2020240422114859.png) |           Half of a parabola           |
+|     Cube root      |                 ∛x                  | ![](../images/Pasted%20image%2020240422114912.png) | S-shaped graph starting at the origin  |
 
 Reference - [Functions and Function Notation](https://openstax.org/books/algebra-and-trigonometry-2e/pages/3-1-functions-and-function-notation#Figure_01_01_013)
 
