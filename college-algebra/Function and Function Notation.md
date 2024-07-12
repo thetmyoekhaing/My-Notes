@@ -52,8 +52,8 @@ To represent “**height** is a function of **age**,”
 
 ### Function Toolkits
 
-|        Name        |              Function               |                    Graph                    |            Characteristics             |
-| :----------------: | :---------------------------------: | :-----------------------------------------: | :------------------------------------: |
+|        Name        |              Function               |                       Graph                        |            Characteristics             |
+| :----------------: | :---------------------------------: | :------------------------------------------------: | :------------------------------------: |
 |      Constant      | 𝑓(𝑥) = 𝑐, where 𝑐 is a constant | ![](../images/Pasted%20image%2020240422114801.png) |            Horizontal line             |
 |      Identity      |             𝑓(𝑥) = 𝑥             | ![](../images/Pasted%20image%2020240422114808.png) |         Line with a slope of 1         |
 |   Absolute value   |          𝑓(𝑥 )= \| 𝑥 \|          | ![](../images/Pasted%20image%2020240422114818.png) |             V-shaped graph             |
@@ -64,6 +64,8 @@ To represent “**height** is a function of **age**,”
 |    Square root     |             𝑓(𝑥) = √x             | ![](../images/Pasted%20image%2020240422114859.png) |           Half of a parabola           |
 |     Cube root      |                 ∛x                  | ![](../images/Pasted%20image%2020240422114912.png) | S-shaped graph starting at the origin  |
 
-Reference - [Functions and Function Notation](https://openstax.org/books/algebra-and-trigonometry-2e/pages/3-1-functions-and-function-notation#Figure_01_01_013)
 
-#### [Domain of a function](Domain%20of%20a%20function.md)
+Reference - [Functions and Function Notation](https://openstax.org/books/algebra-and-trigonometry-2e/pages/3-1-functions-and-function-notation#Figure_01_01_013)
+#### [Domain of a function (x)](Domain%20of%20a%20function%20(x).md)
+
+#### [Range of a function (y)](Range%20of%20a%20function%20(y).md)

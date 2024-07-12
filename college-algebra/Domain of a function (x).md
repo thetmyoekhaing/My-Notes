@@ -1,5 +1,9 @@
 
+
+
 **Domain of a Function**: The set of all possible inputs for the function.
+
+![](../images/Pasted%20image%2020240422123747.png)
 
 #### **For all polynomials** 
 
